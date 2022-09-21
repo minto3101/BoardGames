@@ -5,9 +5,12 @@ I have namde 2 simple board games using C++
   2) Snakes and Ladders
   
 BATTLESHIP-
+
 Battleship is a strategy type guessing game for two players
-This game uses the concept of 2D arrays to take place of the board that is present in the actual game. Two separate arrays are initialised for both the players which contain the location of their ships and the shots they take against the enemy player.
-Several for() loops, while() loops and if else statements are used for making the functions
+This game uses the concept of 2D arrays to take place of the board that is present in the actual game. 
+Two separate arrays are initialised for both the players which contain the location of their ships and the shots they take against the enemy player.
+Several for() loops, while() loops and if else statements are used for making the functions.
+More details in Battleship_Presentation file
 
 
 SNAKES AND LADDERS-
