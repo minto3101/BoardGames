@@ -17,7 +17,7 @@ SNAKES AND LADDERS-
 
 OUTLOOK
 
-number the players with numbers (1,2,3,...etc)
+number the players with numbers (1,2,3,...etc).
 ask user the number of players(n)
 create a 2x2 2-d array of character type
 names will be entered by the user.
